@@ -12,10 +12,13 @@
 
 KOYL AI is a **comprehensive, AI-driven dietary recommendation system** that combines **medical-grade data**, **semantic AI models**, and **real-time personalization** to deliver intelligent nutrition advice. It ensures safety, accuracy, and simplicity for users from all backgrounds.
 
-## 📽️ Video Demo
 
-🎥 **Short Feature Demo**:  
-[Click here to watch the video demo](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/Short%20For%20Work.mp4)
+### 📽️ **Video Demo**
+
+[![Watch Video Demo](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/Overview01.png)](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/Short%20For%20Work.mp4)
+
+> 📹 Click the image above to watch the short demo video.
+
 
 ---
 
