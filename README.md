@@ -13,9 +13,14 @@
 KOYL AI is a **comprehensive, AI-driven dietary recommendation system** that combines **medical-grade data**, **semantic AI models**, and **real-time personalization** to deliver intelligent nutrition advice. It ensures safety, accuracy, and simplicity for users from all backgrounds.
 
 
-### 📽️ **Video Demo**
+## 🔗 LinkedIn Showcase Post
 
-[![Watch Video Demo](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/Overview01.png)](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/Short%20For%20Work.mp4)
+📢 I shared KOYL AI on LinkedIn with a short demo and detailed explanation.  
+Check out the post and support the project here:
+
+🔗 [View LinkedIn Post](https://www.linkedin.com/posts/rajat-kapoor-732042289_techbitsolution-ai-nutritiontech-activity-7346088626650234880-KwzJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXzZZYBc42b4Y4-PLTTOsb3mW-3GVYGrxI) 
+
+> 💬 Feel free to drop your thoughts, feedback, or suggestions in the comments!
 
 > 📹 Click the image above to watch the short demo video.
 
@@ -58,6 +63,9 @@ KOYL AI is a **comprehensive, AI-driven dietary recommendation system** that com
 ![Task Files](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/task%20fileOverview.png)
 
 ---
+### 📽️ **File Overview Demo**
+
+[![Watch Video Demo](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/Overview01.png)](https://github.com/Rajatkapoor01/koly-health-diet-partner-/blob/main/Short%20For%20Work.mp4)
 
 ---
 🧰 Tech Stack Used
