@@ -175,8 +175,8 @@ Edit
 📱 Mobile app version
 
 🧑‍💻 Developed By
-Rajat Kapoor
-🔗 GitHub Profile
-📧 rajatkapoor.dev@gmail.com
+    Rajat Kapoor
+🔗 Gmail
+    rajat01kapoor@gmail.com
 
 📌 This project is for educational.
